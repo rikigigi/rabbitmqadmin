@@ -1,0 +1,1 @@
+../../../rabbitmq-server/deps/rabbitmq_management/bin/rabbitmqadmin
